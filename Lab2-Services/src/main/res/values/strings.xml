@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Noticias Colombia</string>
+    <string name="detail_title">Detalle</string>
+    <string name="back">Volver</string>
+    <string name="loading">Cargando...</string>
+    <string name="error_loading">Error al cargar noticias</string>
+</resources>
